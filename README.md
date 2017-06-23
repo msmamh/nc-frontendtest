@@ -13,8 +13,8 @@ NC frontend Test
 
 It will also highlight text box with color if its invalid.
 
-tested over 30 emails i.e 
-msm_group@hotjail.c
-dasd@gfaon.ni
-iwerwer@fastmool.ocm
+Tested over 30 emails i.e and it will suggest to user the correct email. user can click on suggested email and it will filled automatically:<br>
+msm_group@hotjail.c<br>
+dasd@gfaon.ni<br>
+iwerwer@fastmool.ocm<br>
 
