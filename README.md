@@ -5,7 +5,7 @@ NC frontend Test
 
 <h1>Application Instruction</h1>
 
-<p>Code will be in src folder and min code in min production folder. Each folder contains sub folders for (js, css(</p>
+<p>Code will be in src folder and min code in min production folder. Each folder contains sub folders for (js, css(fonts). After file extraction just run the index from wamp/lamp/IIS/Apache or directly. Tested on modern browsers </p>
 
 <p>This application developed using VUE JS, Javascript, Responsive HTML5, CSS3 Form cann't be submitted if email or password without valid format </p>
 
@@ -17,5 +17,4 @@ tested over 30 emails i.e
 msm_group@hotjail.c
 dasd@gfaon.ni
 iwerwer@fastmool.ocm
-
 
